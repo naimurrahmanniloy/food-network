@@ -69,3 +69,33 @@ body{
     width: 70%;
     margin-bottom: 100px;
 }
+
+/*recipe section start*/
+.recipe_section{
+    margin-top: 90px;
+}
+.recipe_heading{
+    text-align: center;
+}
+.recipe_main_section{
+    display: flex;   
+    
+}
+.recipe_heading_text{
+    font-size: 30px;
+}
+.recipe_img{
+    width: 20%;   
+    margin: 20px auto;   
+    padding: 23px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.recipe_img img{
+    height: 230px;  
+}
+.recipe_text{
+    width: 300px;
+    margin-bottom: 30px;
+}
