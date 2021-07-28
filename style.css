@@ -156,3 +156,20 @@ nav{
     margin-top: 20px;
     width: 300px;
 }
+
+/*followe section start*/
+.follower_main_section{
+    display: flex;
+    text-align: center;
+    margin: 70px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+.follower_rating{
+    width: 20%;
+    margin-left: 150px;
+
+}
