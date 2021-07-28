@@ -29,7 +29,7 @@ nav{
     font-size: 22px;
     
 }
-.menu ul li:hover{
+.menu ul li a:hover{
     border-bottom: 3px solid white;
       
 }
